@@ -1,4 +1,5 @@
 # Counter Strike: Global Offensive CFGs
+A store of my personal CS:GO CFGs.
 
 ## CFG Break Down
 
